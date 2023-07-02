@@ -4,7 +4,7 @@ const nextConfig = {
     reactStrictMode: true,
     output: 'export',
     
-    distDir: '/github-pages',
+    distDir: '/out',
     trailingSlash: true,
     basePath: '/github-pages',
   
